@@ -8,10 +8,12 @@ The purpose of this analysis is to evaluate reviews written by Amazon Vine progr
 
 ![Results](https://user-images.githubusercontent.com/115508658/221310970-3f6c0aaa-d85a-4a9b-967b-ba66a69af93f.png)
 
-* After filtering the initial dataset to only include rows where the total votes were greater than or equal to 20, and where the helpful votes divided by total votes was greater than or equal to 50%, there were 37,840 total pet product reviews from non-Vine members and 170 total pet product reviews from Vine members.
-  * Only .45% of the total reviews were made by Vine members.
-* There were 20,612 five-star reviews from non-Vine members and 65 five-star reviews from Vine members.
-* That means 54.47% of the reviews left by non-Vine members and 38.24% of the reviews left by Vine members were five-star reviews.
+After filtering the initial dataset to only include rows where the total votes were greater than or equal to 20, and where the helpful votes divided by total votes was greater than or equal to 50%, there were:
+
+* 37,840 total pet product reviews from non-Vine members and 170 total pet product reviews from Vine members
+  * Only .45% of the total reviews were made by Vine members
+* 20,612 five-star reviews from non-Vine members and 65 five-star reviews from Vine members
+* 54.47% of the reviews left by non-Vine members and 38.24% of the reviews left by Vine members were five-star reviews
 
 ## Summary
 
